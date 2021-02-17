@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.4" tiledversion="1.4.3" name="rc3Decor" tilewidth="32" tileheight="32" tilecount="216" columns="8">
- <image source="../../../temp/WeltiConRoom-master/Tiles/rc3Decor.png" width="256" height="864"/>
+ <image source="rc3Decor.png" width="256" height="864"/>
  <tile id="0">
   <properties>
    <property name="collides" type="bool" value="true"/>
