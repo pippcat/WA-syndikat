@@ -10485,47 +10485,20 @@
          "tilewidth":32
         }, 
         {
-         "columns":4,
          "firstgid":2129,
-         "image":"..\/..\/temp\/WeltiConRoom-master\/Tiles\/WallOverlays.png",
-         "imageheight":96,
-         "imagewidth":128,
-         "margin":0,
-         "name":"WallOverlays",
-         "spacing":0,
-         "tilecount":12,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"tiles\/WallOverlays.tsx"
         }, 
         {
-         "columns":6,
          "firstgid":2141,
-         "image":"..\/..\/temp\/WeltiConRoom-master\/Tiles\/GateTeleport.png",
-         "imageheight":64,
-         "imagewidth":192,
-         "margin":0,
-         "name":"TeleportGate",
-         "spacing":0,
-         "tilecount":12,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"tiles\/TeleportGate.tsx"
         }, 
         {
          "firstgid":2153,
          "source":"tiles\/Extensions.tsx"
         }, 
         {
-         "columns":10,
          "firstgid":2193,
-         "image":"..\/..\/temp\/WeltiConRoom-master\/Tiles\/Texte.png",
-         "imageheight":320,
-         "imagewidth":320,
-         "margin":0,
-         "name":"Text",
-         "spacing":0,
-         "tilecount":100,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"tiles\/Text.tsx"
         }, 
         {
          "firstgid":2293,
@@ -10536,17 +10509,8 @@
          "source":"tiles\/Schatten.tsx"
         }, 
         {
-         "columns":8,
          "firstgid":2557,
-         "image":"tiles\/sign_texts.png",
-         "imageheight":320,
-         "imagewidth":256,
-         "margin":0,
-         "name":"sign_texts",
-         "spacing":0,
-         "tilecount":80,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"tiles\/sign_texts.tsx"
         }],
  "tilewidth":32,
  "type":"map",
