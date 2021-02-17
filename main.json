@@ -897,7 +897,7 @@
         {
          "columns":8,
          "firstgid":1065,
-         "image":"..\/..\/temp\/WeltiConRoom-master\/Tiles\/BaseChip_pipo.png",
+         "image":"tiles\/BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
