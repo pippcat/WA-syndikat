@@ -10946,7 +10946,7 @@
         {
          "columns":16,
          "firstgid":4897,
-         "image":"..\/..\/temp\/club.cyberyoga.org-master\/tiles\/tilesets_deviant_milkian_1.png",
+         "image":"tiles\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -11815,7 +11815,7 @@
         {
          "columns":16,
          "firstgid":5153,
-         "image":"..\/..\/temp\/club.cyberyoga.org-master\/tiles\/request_april.png",
+         "image":"tiles\/request_april.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
