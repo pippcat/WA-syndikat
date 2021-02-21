@@ -252,7 +252,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pacman.platzh1rsch.ch\/"
+                 "value":"https:\/\/pacman-e281c.firebaseapp.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
