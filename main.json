@@ -252,7 +252,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/funhtml5games.com?embed=pacman"
+                 "value":"https:\/\/pacman.live\/play.html"
                 }],
          "type":"tilelayer",
          "visible":true,
