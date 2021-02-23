@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#StartBoard1"
+                 "value":"main.json#startBoard1"
                 }],
          "type":"tilelayer",
          "visible":true,
