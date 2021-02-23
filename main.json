@@ -385,7 +385,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"Sounds\/silence-1s.mp3"
+                 "value":"mp3\/silence-1s.mp3"
                 }, 
                 {
                  "name":"silent",
