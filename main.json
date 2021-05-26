@@ -517,7 +517,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pacman.live\/play.html"
+                 "value":"https:\/\/astrds.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
