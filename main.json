@@ -481,7 +481,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pad.riseup.net\/p\/1337-mhs-1"
+                 "value":"https:\/\/www.2n40.de\/py\/test.html"
                 }],
          "type":"tilelayer",
          "visible":true,
